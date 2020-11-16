@@ -1,0 +1,1 @@
+With 1 Relay module from Hi-Link you can easily convert up to 16 devices to smart devices. Use cases include lighting, garden irrigation or underfloor heating.

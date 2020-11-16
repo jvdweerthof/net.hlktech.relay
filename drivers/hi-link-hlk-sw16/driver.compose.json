@@ -1,0 +1,31 @@
+{
+  "id": "hi-link-hlk-sw16",
+  "name": {
+    "en": "Hi-Link HLK-SW16"
+  },
+  "class": "socket",
+  "capabilities": [ "onoff" ],
+  "images": {
+    "large": "/drivers/hi-link-hlk-sw16/assets/images/large.png",
+    "small": "/drivers/hi-link-hlk-sw16/assets/images/small.png"
+  },
+  "pair": [
+    {
+      "id": "ip-and-port"
+    },
+    {
+      "id": "list_devices",
+      "template": "list_devices",
+      "navigation": {
+        "next": "add_devices"
+      },
+      "options": {
+        "singular": false
+      }
+    },
+    {
+      "id": "add_devices",
+      "template": "add_devices"
+    }
+  ]
+}

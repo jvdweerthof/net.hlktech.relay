@@ -1,0 +1,1 @@
+Met 1 Relais module van Hi-Link kan je tot wel 16 apparaten eenvoudig slim maken. Ideaal voor bijvoorbeeld verlichting, automatische irrigatie of vloerverwarming.

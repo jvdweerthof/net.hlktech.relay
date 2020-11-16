@@ -1,0 +1,27 @@
+{
+  "id": "net.hlktech.relay",
+  "version": "0.0.1",
+  "compatibility": ">=4.0.0",
+  "sdk": 2,
+  "name": {
+    "en": "Hi-Link Relays",
+    "nl": "Hi-Link Relais",
+    "de": "Hi-Link Relais"
+  },
+  "description": {
+    "en": "Adds support for Hi-Link HLK-SW16 16 WiFi/Ethernet Relay"
+  },
+  "category": [
+    "lights",
+    "appliances"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Jochem van de Weerthof",
+    "email": "jochem@vandeweerthof.nl"
+  }
+}

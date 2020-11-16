@@ -1,0 +1,12 @@
+{
+    "pair": {
+        "intro": "First connect your device to your WiFi or wired network and assign a static IP Address. Communication with the device is not encrypted or password protected, only access it through your local network!",
+        "server_ip": "IP Address",
+        "server_port": "Serial Server Port (8080 by default)",
+        "next": "Next",
+        "check_input": "Please check your input",
+        "check_ip": "Please check the entered IP Address",
+        "check_port": "Please check the entered port",
+        "unable_to_connect": "Unable to connect to the device"
+    }
+}

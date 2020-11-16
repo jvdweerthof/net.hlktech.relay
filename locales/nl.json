@@ -1,0 +1,12 @@
+{
+    "pair": {
+        "intro": "Verbind uw apparaat eerst met uw WiFi of bekabelde network en wijs een statisch IP Adres toe. Communicatie met het apparaat is niet versleuteld of met een wachtwoord beveiligd, gebruik hem alleen via uw lokale network!",
+        "server_ip": "IP Adres",
+        "server_port": "Serial Server Poort (standaard 8080)",
+        "next": "Volgende",
+        "check_input": "Controleer de ingevoerde gegevens",
+        "check_ip": "Controleer het ingevoerde IP Address",
+        "check_port": "Controleer het ingevoerde port",
+        "unable_to_connect": "Kan niet met het apparaat verbinden"
+    }
+}
