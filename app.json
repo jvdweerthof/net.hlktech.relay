@@ -6,11 +6,12 @@
   "sdk": 2,
   "name": {
     "en": "Hi-Link Relays",
-    "nl": "Hi-Link Relais",
-    "de": "Hi-Link Relais"
+    "nl": "Hi-Link Relais"
   },
+  "brandColor": "#095eb1",
   "description": {
-    "en": "Adds support for Hi-Link HLK-SW16 16 WiFi/Ethernet Relay"
+    "en": "Adds support for Hi-Link HLK-SW16 16 channel WiFi/Ethernet Relay",
+    "nl": "Ondersteuning toe voor Hi-Link HLK-SW16 16 kanaals WiFi/Ethernet Relay"
   },
   "category": [
     "lights",
@@ -18,12 +19,12 @@
   ],
   "permissions": [],
   "images": {
-    "large": "/assets/images/large.png",
-    "small": "/assets/images/small.png"
+    "large": "/assets/images/large.jpg",
+    "small": "/assets/images/small.jpg"
   },
   "author": {
-    "name": "Jochem van de Weerthof",
-    "email": "jochem@vandeweerthof.nl"
+    "name": "J. van de Weerthof",
+    "email": "homey@vandeweerthof.nl"
   },
   "drivers": [
     {
@@ -36,8 +37,8 @@
         "onoff"
       ],
       "images": {
-        "large": "/drivers/SW16/assets/images/large.png",
-        "small": "/drivers/SW16/assets/images/small.png"
+        "large": "/drivers/SW16/assets/images/large.jpg",
+        "small": "/drivers/SW16/assets/images/small.jpg"
       },
       "pair": [
         {

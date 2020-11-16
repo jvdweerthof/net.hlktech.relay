@@ -6,8 +6,8 @@
   "class": "socket",
   "capabilities": [ "onoff" ],
   "images": {
-    "large": "/drivers/SW16/assets/images/large.png",
-    "small": "/drivers/SW16/assets/images/small.png"
+    "large": "/drivers/SW16/assets/images/large.jpg",
+    "small": "/drivers/SW16/assets/images/small.jpg"
   },
   "pair": [
     {
