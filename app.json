@@ -36,8 +36,8 @@
         "onoff"
       ],
       "images": {
-        "large": "/drivers/hi-link-hlk-sw16/assets/images/large.png",
-        "small": "/drivers/hi-link-hlk-sw16/assets/images/small.png"
+        "large": "/drivers/SW16/assets/images/large.png",
+        "small": "/drivers/SW16/assets/images/small.png"
       },
       "pair": [
         {
