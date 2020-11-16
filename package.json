@@ -1,6 +1,13 @@
 {
   "name": "net.hlktech.relay",
+  "description": "Adds support for the Hi-Link HLK-SW16 16 channel WiFi/Ethernet Relay to Athom Homey.",
   "version": "0.0.1",
+  "bugs": {
+    "url": "https://github.com/jvdweerthof/net.hlktech.relay/issues"
+  },
+  "homepage": "https://github.com/jvdweerthof/net.hlktech.relay#readme",
+  "author": "J. van de Weerthof",
+  "license": "GPL-3.0-or-later",
   "main": "app.js",
   "devDependencies": {
     "eslint": "^7.13.0",
@@ -13,5 +20,9 @@
   },
   "engines": {
     "node": ">=12.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvdweerthof/net.hlktech.relay.git"
   }
 }
