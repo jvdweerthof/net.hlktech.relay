@@ -1,5 +1,5 @@
 {
-  "id": "hi-link-hlk-sw16",
+  "id": "SW16",
   "name": {
     "en": "Hi-Link HLK-SW16"
   },
@@ -11,7 +11,7 @@
   },
   "pair": [
     {
-      "id": "ip-and-port"
+      "id": "ip_and_port"
     },
     {
       "id": "list_devices",

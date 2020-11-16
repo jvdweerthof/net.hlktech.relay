@@ -6,11 +6,11 @@
   "sdk": 2,
   "name": {
     "en": "Hi-Link Relays",
-    "nl": "Hi-Link Relais"
+    "nl": "Hi-Link Relais",
+    "de": "Hi-Link Relais"
   },
   "description": {
-    "en": "Control your device using the Hi-Link HLK-SW16 16 channel WiFi/Ethernet Relay",
-    "nl": "Beheer je apparaten met de Hi-Link HLK-SW16 16 kanaals WiFi/Ethernet Relais"
+    "en": "Adds support for Hi-Link HLK-SW16 16 WiFi/Ethernet Relay"
   },
   "category": [
     "lights",
@@ -27,7 +27,7 @@
   },
   "drivers": [
     {
-      "id": "hi-link-hlk-sw16",
+      "id": "SW16",
       "name": {
         "en": "Hi-Link HLK-SW16"
       },
@@ -41,7 +41,7 @@
       },
       "pair": [
         {
-          "id": "ip-and-port"
+          "id": "ip_and_port"
         },
         {
           "id": "list_devices",
