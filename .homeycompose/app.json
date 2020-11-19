@@ -10,12 +10,28 @@
   "brandColor": "#095eb1",
   "description": {
     "en": "Adds support for Hi-Link HLK-SW16 16 channel WiFi/Ethernet Relay",
-    "nl": "Ondersteuning toe voor Hi-Link HLK-SW16 16 kanaals WiFi/Ethernet Relay"
+    "nl": "Ondersteuning voor Hi-Link HLK-SW16 16 kanaals WiFi/Ethernet Relay"
   },
   "category": [
     "lights",
     "appliances"
   ],
+  "tags": {
+    "en": [
+      "hi-link",
+      "hilink",
+      "hlksw16",
+      "hlk-sw16",
+      "relay"
+    ],
+    "nl": [
+      "hi-link",
+      "hilink",
+      "hlksw16",
+      "hlk-sw16",
+      "relais"
+    ]
+  },
   "permissions": [],
   "images": {
     "large": "/assets/images/large.jpg",
@@ -24,5 +40,17 @@
   "author": {
     "name": "J. van de Weerthof",
     "email": "homey@vandeweerthof.nl"
+  },
+  "license": " GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jvdweerthof/net.hlktech.relay/issues"
+  },
+  "source": "https://github.com/jvdweerthof/net.hlktech.relay",
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "jvdweerthof"
+      }
+    }
   }
 }
