@@ -8,12 +8,13 @@ Adds support for the Hi-Link HLK-SW16 16 channel WiFi/Ethernet Relay.
 
 1. Turn on the device by plugging in the power
 2. Connect via Wi-Fi to the access point of the device, the name starts with "HI-LINK_"
-3. In the menu, click `HLK-WR02` > `Serial2Net Settings`
-4. Change `NetMode` to `WIFI(CLIENT)-SERIAL`
-5. Enter the `SSID`, `Encrypt Type` and `Password` for your wireless network
-6. Change `IP Type` to `STATIC`
-7. Enter the `IP Address`, `Subnet Mask`, `Default Gateway` and `DNS Servers` for your local network
-8. Click `Save`
+3. Go to `http://192.168.16.254`, default username and password `admin`
+4. In the menu, click `HLK-WR02` > `Serial2Net Settings`
+5. Change `NetMode` to `WIFI(CLIENT)-SERIAL`
+6. Enter the `SSID`, `Encrypt Type` and `Password` for your wireless network
+7. Change `IP Type` to `STATIC`
+8. Enter the `IP Address`, `Subnet Mask`, `Default Gateway` and `DNS Servers` for your local network
+9. Click `Save`
 
 ## Adding the device to Homey
 1. Install the app from the Homey app store: https://homey.app/a/net.hlktech.relay
