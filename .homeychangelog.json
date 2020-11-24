@@ -4,5 +4,9 @@
   },
   "0.0.2": {
     "en": "Updated app store information"
+  },
+  "0.0.3": {
+    "en": "Fixed: crash when device becomes unreacheable",
+    "nl": "Opgelost: crash als het apparaat onbereikbaar is"
   }
 }
