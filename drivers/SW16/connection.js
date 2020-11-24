@@ -73,6 +73,12 @@ class HLK_SW16_DEVICE_CONNECTION extends EventEmitter {
           this.connected = false;
           this.emit('disconnected');
         })
+        .on('error', () => {
+          // Do nothing, just needs a listener to prevent crash of app
+        })
+        .on('reconnect', () => {
+          // Do nothing, just needs a listener to prevent crash of app
+        })
         .connect(this._port, this._ip);
     });
   }
