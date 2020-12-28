@@ -9,7 +9,7 @@
     "en": "Fixed: crash when device becomes unreachable",
     "nl": "Opgelost: crash als het apparaat onbereikbaar is"
   },
-  "0.0.4": {
+  "0.0.5": {
     "en": "Bugfix: Homey is out of sync on reboot of Relay",
     "nl": "Opgelost: Homey status incorrect bij herstart van Relais"
   }
