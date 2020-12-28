@@ -67,6 +67,10 @@ class HLK_SW16_DEVICE_CONNECTION extends EventEmitter {
             resolve();
           }
           this.connected = true;
+
+          // On reboot the state in homey and relay may be out of sync, update the state in homey.
+          this.pollStatus();
+
           this.emit('connected');
         })
         .on('disconnect', () => {
