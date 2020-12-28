@@ -6,7 +6,11 @@
     "en": "Updated app store information"
   },
   "0.0.3": {
-    "en": "Fixed: crash when device becomes unreacheable",
+    "en": "Fixed: crash when device becomes unreachable",
     "nl": "Opgelost: crash als het apparaat onbereikbaar is"
+  },
+  "0.0.4": {
+    "en": "Bugfix: Homey is out of sync on reboot of Relay",
+    "nl": "Opgelost: Homey status incorrect bij herstart van Relais"
   }
 }

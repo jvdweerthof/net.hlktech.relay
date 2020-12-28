@@ -1,7 +1,7 @@
 {
   "name": "net.hlktech.relay",
   "description": "Adds support for the Hi-Link HLK-SW16 16 channel WiFi/Ethernet Relay to Athom Homey.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "bugs": {
     "url": "https://github.com/jvdweerthof/net.hlktech.relay/issues"
   },
