@@ -12,7 +12,7 @@
   "devDependencies": {
     "eslint": "^7.22.0",
     "eslint-config-athom": "^2.1.0",
-    "homey": "^2.12.4"
+    "homey": "^2.13.1"
   },
   "dependencies": {
     "reconnect-core": "^1.3.0",
