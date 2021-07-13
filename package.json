@@ -11,7 +11,7 @@
   "main": "app.js",
   "devDependencies": {
     "eslint": "^7.29.0",
-    "eslint-config-athom": "^2.1.0",
+    "eslint-config-athom": "^2.1.1",
     "homey": "^2.20.0"
   },
   "dependencies": {
